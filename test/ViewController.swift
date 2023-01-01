@@ -12,6 +12,8 @@ class ViewController: UITableViewController {
     var pictures = [String]()
     override func viewDidLoad() {
         super.viewDidLoad()
+        title = "Storm Controller"
+        navigationController?.navigationBar.prefersLargeTitles=true
         // Do any additional setup after loading the view.
         
         let fm = FileManager.default
