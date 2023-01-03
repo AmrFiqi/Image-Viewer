@@ -1,4 +1,4 @@
-# firstIOSProject
+# ImageViewer
 developing my first IOS app using Swift and UIKit
 
 ## Tecnology learnt
